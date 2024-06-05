@@ -1195,9 +1195,9 @@
               <FilePath>..\..\..\..\common\src\uart_init.c</FilePath>
             </File>
             <File>
-              <FileName>main_tx_infinite_preamble.c</FileName>
+              <FileName>main_tx_lr_fhss.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\main_tx_infinite_preamble.c</FilePath>
+              <FilePath>..\main_tx_lr_fhss.c</FilePath>
             </File>
           </Files>
         </Group>
@@ -1970,9 +1970,9 @@
               <FilePath>..\..\..\..\common\src\uart_init.c</FilePath>
             </File>
             <File>
-              <FileName>main_tx_infinite_preamble.c</FileName>
+              <FileName>main_tx_lr_fhss.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\main_tx_infinite_preamble.c</FilePath>
+              <FilePath>..\main_tx_lr_fhss.c</FilePath>
             </File>
           </Files>
         </Group>
@@ -2814,9 +2814,9 @@
               <FilePath>..\..\..\..\common\src\uart_init.c</FilePath>
             </File>
             <File>
-              <FileName>main_tx_infinite_preamble.c</FileName>
+              <FileName>main_tx_lr_fhss.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\main_tx_infinite_preamble.c</FilePath>
+              <FilePath>..\main_tx_lr_fhss.c</FilePath>
             </File>
           </Files>
         </Group>
@@ -3589,9 +3589,9 @@
               <FilePath>..\..\..\..\common\src\uart_init.c</FilePath>
             </File>
             <File>
-              <FileName>main_tx_infinite_preamble.c</FileName>
+              <FileName>main_tx_lr_fhss.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\main_tx_infinite_preamble.c</FilePath>
+              <FilePath>..\main_tx_lr_fhss.c</FilePath>
             </File>
           </Files>
         </Group>
@@ -4433,9 +4433,9 @@
               <FilePath>..\..\..\..\common\src\uart_init.c</FilePath>
             </File>
             <File>
-              <FileName>main_tx_infinite_preamble.c</FileName>
+              <FileName>main_tx_lr_fhss.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\main_tx_infinite_preamble.c</FilePath>
+              <FilePath>..\main_tx_lr_fhss.c</FilePath>
             </File>
           </Files>
         </Group>
@@ -5277,9 +5277,9 @@
               <FilePath>..\..\..\..\common\src\uart_init.c</FilePath>
             </File>
             <File>
-              <FileName>main_tx_infinite_preamble.c</FileName>
+              <FileName>main_tx_lr_fhss.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\main_tx_infinite_preamble.c</FilePath>
+              <FilePath>..\main_tx_lr_fhss.c</FilePath>
             </File>
           </Files>
         </Group>
@@ -6121,9 +6121,9 @@
               <FilePath>..\..\..\..\common\src\uart_init.c</FilePath>
             </File>
             <File>
-              <FileName>main_tx_infinite_preamble.c</FileName>
+              <FileName>main_tx_lr_fhss.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\main_tx_infinite_preamble.c</FilePath>
+              <FilePath>..\main_tx_lr_fhss.c</FilePath>
             </File>
           </Files>
         </Group>
