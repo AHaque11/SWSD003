@@ -49,7 +49,7 @@
             <InvalidFlash>1</InvalidFlash>
           </TargetStatus>
           <OutputDirectory>.\build\SX1261MB1BAS\</OutputDirectory>
-          <OutputName>tx_infinite_preamble</OutputName>
+          <OutputName>main_tx_lr_fhss</OutputName>
           <CreateExecutable>1</CreateExecutable>
           <CreateLib>0</CreateLib>
           <CreateHexFile>1</CreateHexFile>
@@ -824,7 +824,7 @@
             <InvalidFlash>1</InvalidFlash>
           </TargetStatus>
           <OutputDirectory>.\build\SX1261MB1CAS\</OutputDirectory>
-          <OutputName>tx_infinite_preamble</OutputName>
+          <OutputName>main_tx_lr_fhss</OutputName>
           <CreateExecutable>1</CreateExecutable>
           <CreateLib>0</CreateLib>
           <CreateHexFile>1</CreateHexFile>
@@ -1599,7 +1599,7 @@
             <InvalidFlash>1</InvalidFlash>
           </TargetStatus>
           <OutputDirectory>.\build\SX1261MB2BAS\</OutputDirectory>
-          <OutputName>tx_infinite_preamble</OutputName>
+          <OutputName>main_tx_lr_fhss</OutputName>
           <CreateExecutable>1</CreateExecutable>
           <CreateLib>0</CreateLib>
           <CreateHexFile>1</CreateHexFile>
@@ -2443,7 +2443,7 @@
             <InvalidFlash>1</InvalidFlash>
           </TargetStatus>
           <OutputDirectory>.\build\SX1268MB1GAS\</OutputDirectory>
-          <OutputName>tx_infinite_preamble</OutputName>
+          <OutputName>main_tx_lr_fhss</OutputName>
           <CreateExecutable>1</CreateExecutable>
           <CreateLib>0</CreateLib>
           <CreateHexFile>1</CreateHexFile>
@@ -3218,7 +3218,7 @@
             <InvalidFlash>1</InvalidFlash>
           </TargetStatus>
           <OutputDirectory>.\build\SX1262MB1CAS\</OutputDirectory>
-          <OutputName>tx_infinite_preamble</OutputName>
+          <OutputName>main_tx_lr_fhss</OutputName>
           <CreateExecutable>1</CreateExecutable>
           <CreateLib>0</CreateLib>
           <CreateHexFile>1</CreateHexFile>
@@ -4062,7 +4062,7 @@
             <InvalidFlash>1</InvalidFlash>
           </TargetStatus>
           <OutputDirectory>.\build\SX1262MB1CBS\</OutputDirectory>
-          <OutputName>tx_infinite_preamble</OutputName>
+          <OutputName>main_tx_lr_fhss</OutputName>
           <CreateExecutable>1</CreateExecutable>
           <CreateLib>0</CreateLib>
           <CreateHexFile>1</CreateHexFile>
@@ -4906,7 +4906,7 @@
             <InvalidFlash>1</InvalidFlash>
           </TargetStatus>
           <OutputDirectory>.\build\SX1262MB1DAS\</OutputDirectory>
-          <OutputName>tx_infinite_preamble</OutputName>
+          <OutputName>main_tx_lr_fhss</OutputName>
           <CreateExecutable>1</CreateExecutable>
           <CreateLib>0</CreateLib>
           <CreateHexFile>1</CreateHexFile>
@@ -5750,7 +5750,7 @@
             <InvalidFlash>1</InvalidFlash>
           </TargetStatus>
           <OutputDirectory>.\build\SX1262MB1PAS\</OutputDirectory>
-          <OutputName>tx_infinite_preamble</OutputName>
+          <OutputName>main_tx_lr_fhss</OutputName>
           <CreateExecutable>1</CreateExecutable>
           <CreateLib>0</CreateLib>
           <CreateHexFile>1</CreateHexFile>
@@ -6594,7 +6594,7 @@
             <InvalidFlash>1</InvalidFlash>
           </TargetStatus>
           <OutputDirectory>.\build\SX1262MB2CAS\</OutputDirectory>
-          <OutputName>tx_infinite_preamble</OutputName>
+          <OutputName>main_tx_lr_fhss</OutputName>
           <CreateExecutable>1</CreateExecutable>
           <CreateLib>0</CreateLib>
           <CreateHexFile>1</CreateHexFile>
